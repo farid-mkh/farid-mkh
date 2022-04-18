@@ -1,6 +1,6 @@
 <h3> Hi there 👋</h3>
 <hr/>
-<h3>This is lovely website I'm working on it as Frontend developer 😍</h3>
+<h3>🌍 This is lovely website I'm working on it as Frontend developer 😍</h3>
 🔗 <a href="https://rabincash.com">rabincash.com</a>
 
 <!--
