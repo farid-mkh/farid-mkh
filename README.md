@@ -2,6 +2,9 @@
 <hr/>
 <h3>🌍 This is lovely website I'm working on it as Frontend developer 😍</h3>
 🔗 <a href="https://rabincash.com">rabincash.com</a>
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farid-mkh&hide=css,html)](https://github.com/farid-mkh/github-readme-stats)
 
 <!--
 **farid-mkh/farid-mkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
