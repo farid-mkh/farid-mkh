@@ -1,6 +1,9 @@
-<h3> Hi there 👋</h3>
+##### Hi 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-mkh&layout=compact&theme=radical"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farid-mkh&layout=compact&theme=radical)
+
+[![Farid StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/16571006?theme=dark)](https://stackoverflow.com/users/16571006/farid)
+
 <!--
 **farid-mkh/farid-mkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
